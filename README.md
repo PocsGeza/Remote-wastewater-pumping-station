@@ -3,7 +3,7 @@
 This is a portfolio project that aims to construct a cheap control system for a wastewater pumping station using a Raspberry Pi as a PLC.
 The goal is to have a functioning system with as many bells and whistles as possible.
 
-#Intended functionality
+# Intended functionality
 The system is intended to have the following functionality:
  * Start and stop the pumps using contactors
  * Measure and log the functioning time of each pump
@@ -18,7 +18,7 @@ The system is intended to have the following functionality:
  * Detect pump clogging and run the pump in reverse
  * Generate reports in Excel or PDF format
 
-#Isolating the control part
+# Isolating the control part
 The idea is to have the ability to change the PLC brand with unplugging an Ethernet cable and connecting another PLC.
 
 All I/O will be connected to an expandable remote I/O module.  
