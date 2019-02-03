@@ -17,4 +17,8 @@ The system is intended to have the following functionality:
  * Use an alarm beacon
  * Detect pump clogging and run the pump in reverse
  * Generate reports in Excel or PDF format
- 
+
+#Isolating the control part
+The idea is to have the ability to change the PLC brand with unplugging an Ethernet cable and connecting another PLC.
+
+All I/O will be connected to an expandable remote I/O module.  
