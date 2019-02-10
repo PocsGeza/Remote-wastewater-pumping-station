@@ -1,4 +1,4 @@
-# Pumping station control system using a Raspberry Pi as a PLC
+# Pumping station control system using a Raspberry Pi as a PLC or a variety of different PLC vendors
 
 This is a portfolio project that aims to construct a cheap control system for a wastewater pumping station using a Raspberry Pi as a PLC.
 The goal is to have a functioning system with as many bells and whistles as possible.
